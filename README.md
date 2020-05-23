@@ -3,6 +3,8 @@
 ## Demo:
 https://aldhairescobar.github.io/t-rexLandingPage/
 
+![Capturelanding](https://user-images.githubusercontent.com/63808163/82717605-da373280-9c62-11ea-997b-d1288e6d7808.JPG)
+
 ## Built With:
 - HTML
 - CSS
